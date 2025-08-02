@@ -1,7 +1,0 @@
-Information 1.0
-
-Verzia programu: 1.0
-Meno: Password Game.exe
-
-NickProgramming
-2024 Všetky práva vyhradené
