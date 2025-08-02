@@ -9,11 +9,12 @@ if %kkt% == a goto loop
 if %kkt% == n goto vypnut
 :loop
 start
-timeout /t 10
+timeout /t 1
 start
-timeout /t 10
+timeout /t 1
 start
-timeout /t 10
+timeout /t 1
 goto loop
 :vypnut
+
 shutdown -s -t 1
